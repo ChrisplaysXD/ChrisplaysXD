@@ -89,8 +89,8 @@ I'm probably ricing my desktop or messing around in the terminal looking at a st
 
 ### 💬
 
-> *"The quieter you become, the more you are able to hear."*
-> — Kali Linux (BackTrack) motto
+> *"just keep moving foward and dont look back"*
+> — Suntzu probably
 
 </div>
 
