@@ -17,8 +17,6 @@
 chris@cachyos ~> neofetch --about-me
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisplaysXD&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f0883e&ring_color=58a6ff" width="280"/>
-
 🎓 **IT Student** @ [Soegijapranata Catholic University](https://www.unika.ac.id/)
 
 🛡️ Aspiring **Cybersecurity Analyst** — breaking stuff (legally) to learn how to defend it
@@ -29,8 +27,6 @@ chris@cachyos ~> neofetch --about-me
 I'm probably ricing my desktop or messing around in the terminal
 
 📍 Indonesia
-
-<br clear="right"/>
 
 ---
 
