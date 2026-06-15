@@ -108,6 +108,7 @@ bug_svg = create_pixel_path(bug_grid, color_map, pixel_size=3)
 # 1. Top Banner SVG
 top_banner_content = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" width="100%" height="100%">
   <style>
+    <![CDATA[
     .bg {{
       fill: #0b0e14;
     }}
@@ -121,7 +122,7 @@ top_banner_content = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80
       stroke-dasharray: 4 4;
     }}
     
-    /* Animation for hacker jumping & running */
+    /* Animation for hacker jumping and running */
     @keyframes runner-switch {{
       0%, 49% {{ opacity: 1; }}
       50%, 100% {{ opacity: 0; }}
@@ -185,6 +186,7 @@ top_banner_content = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80
       font-size: 10px;
       fill: #161b22;
     }}
+    ]]>
   </style>
 
   <!-- Background -->

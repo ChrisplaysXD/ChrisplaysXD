@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" width="100%" height="100%">
   <style>
+    <![CDATA[
     .bg {
       fill: #0b0e14;
     }
@@ -13,7 +14,7 @@
       stroke-dasharray: 4 4;
     }
     
-    /* Animation for hacker jumping & running */
+    /* Animation for hacker jumping and running */
     @keyframes runner-switch {
       0%, 49% { opacity: 1; }
       50%, 100% { opacity: 0; }
@@ -77,6 +78,7 @@
       font-size: 10px;
       fill: #161b22;
     }
+    ]]>
   </style>
 
   <!-- Background -->
