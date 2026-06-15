@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Cyber Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00ff41,50:058c42,75:00ff41,100:0d1117&height=200&section=header&text=🔒%20CyberSec%20%7C%20Linux%20%7C%20Hyprland&fontSize=28&fontColor=00ff41&fontAlignY=35&desc=breaking+things+to+learn+how+to+defend+them&descSize=14&descColor=58a6ff&descAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://raw.githubusercontent.com/ChrisplaysXD/ChrisplaysXD/main/assets/cyber_header.svg" width="100%"/>
 
 </div>
 
@@ -110,7 +110,7 @@ I'm probably ricing my desktop or messing around in the terminal looking at a st
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00ff41,50:058c42,75:00ff41,100:0d1117&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://raw.githubusercontent.com/ChrisplaysXD/ChrisplaysXD/main/assets/cyber_footer.svg" width="100%"/>
 
 ![](https://komarev.com/ghpvc/?username=ChrisplaysXD&color=58a6ff&style=flat-square&label=Profile+Views)
 
