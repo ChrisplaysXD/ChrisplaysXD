@@ -19,12 +19,12 @@ chris@cachyos ~> neofetch --about-me
 
 🎓 **IT Student** @ [Soegijapranata Catholic University](https://www.unika.ac.id/)
 
-🛡️ Aspiring **Cybersecurity Analyst** — breaking stuff (legally) to learn how to defend it
+🛡️ Aspiring **Cybersecurity Analyst** — breaking stuff (legally ofcourse 👀) to learn how to defend it
 
-🐧 Daily driving **CachyOS** with **Hyprland** because tiling WMs just hit different
+🐧 Daily driving **CachyOS** with **KDE** and **Hyprland** because i have no life
 
 🔧 When I'm not studying networking or poking at vulnerable machines,
-I'm probably ricing my desktop or messing around in the terminal
+I'm probably ricing my desktop or messing around in the terminal looking at a stupid matrix
 
 📍 Indonesia
 
