@@ -5,8 +5,8 @@
 
 <br/>
 
-<!-- Gradient Separator -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" width="100%"/>
+<!-- Cyber Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00ff41,50:058c42,75:00ff41,100:0d1117&height=200&section=header&text=🔒%20CyberSec%20%7C%20Linux%20%7C%20Hyprland&fontSize=28&fontColor=00ff41&fontAlignY=35&desc=breaking+things+to+learn+how+to+defend+them&descSize=14&descColor=58a6ff&descAlignY=55&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -114,7 +114,7 @@ I'm probably ricing my desktop or messing around in the terminal
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00ff41,50:058c42,75:00ff41,100:0d1117&height=120&section=footer&animation=twinkling" width="100%"/>
 
 ![](https://komarev.com/ghpvc/?username=ChrisplaysXD&color=58a6ff&style=flat-square&label=Profile+Views)
 
