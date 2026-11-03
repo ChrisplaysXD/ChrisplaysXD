@@ -70,7 +70,7 @@ chris@cachyos ~> neofetch --about-me
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ChrisplaysXD&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" height="180"/>
 </div>
 
-<br/>
+<!-- <br/> -->
 
 ---
 
