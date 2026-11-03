@@ -19,12 +19,11 @@ chris@cachyos ~> neofetch --about-me
 
 🎓 **IT Student** @ [Soegijapranata Catholic University](https://www.unika.ac.id/)
 
-🛡️ Aspiring **Cybersecurity Analyst** — breaking stuff (legally ofcourse 👀) to learn how to defend it
+🛡️ Cybersecurity and IT infrastructure enthusiast
 
-🐧 Daily driving **CachyOS** with **KDE** and **Hyprland** because i have no life
+🐧 Daily driving **CachyOS** with **KDE** and **Hyprland** 
 
-🔧 When I'm not studying networking or poking at vulnerable machines,
-I'm probably ricing my desktop or messing around in the terminal looking at a stupid matrix
+🔧 When I'm not studying networking or poking at vulnerable machines
 
 📍 Indonesia
 
@@ -72,15 +71,6 @@ I'm probably ricing my desktop or messing around in the terminal looking at a st
 </div>
 
 <br/>
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChrisplaysXD/ChrisplaysXD/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChrisplaysXD/ChrisplaysXD/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ChrisplaysXD/ChrisplaysXD/output/github-snake.svg" width="100%"/>
-  </picture>
-</div>
 
 ---
 
