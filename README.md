@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Chris;Cybersecurity+%7C+Linux+%7C+Hyprland+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Chris;Cybersecurity+%7C+Systems+Engineering;Linux+%7C+Hyprland+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -21,11 +21,29 @@ chris@cachyos ~> neofetch --about-me
 
 🛡️ Cybersecurity and IT infrastructure enthusiast
 
-🐧 Daily driving **CachyOS** with **KDE** and **Hyprland** 
+⚙️ Systems engineering — Linux, networking, databases, and service reliability
 
-🔧 When I'm not studying networking or poking at vulnerable machines
+🐧 Daily driving **CachyOS** with **KDE** and **Hyprland**
+
+🔧 When I'm not studying networking, tuning services, or poking at vulnerable machines
 
 📍 Indonesia
+
+---
+
+<!-- Focus -->
+## 🎯 What I Do
+
+<div align="center">
+
+| 🛡️ Security | ⚙️ Systems Engineering |
+| :---: | :---: |
+| Network analysis & packet inspection | Linux administration & hardening |
+| Vulnerability assessment & pentesting | Service deployment, monitoring & uptime |
+| Web app security testing | Database setup, replication & backups |
+| CTF & lab environments | Automation, scripting & self-hosted infra |
+
+</div>
 
 ---
 
@@ -48,6 +66,19 @@ chris@cachyos ~> neofetch --about-me
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+#### ⚙️ Systems & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=systemd&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 #### 🖥️ Environment & Tools
 ![CachyOS](https://img.shields.io/badge/CachyOS-0F94D2?style=for-the-badge&logo=archlinux&logoColor=white)
