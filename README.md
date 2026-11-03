@@ -67,7 +67,7 @@ chris@cachyos ~> neofetch --about-me
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChrisplaysXD&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f0883e&ring_color=58a6ff&count_private=true" height="180"/>
   &nbsp;&nbsp;
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=ChrisplaysXD&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" height="180"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChrisplaysXD&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" height="180"/>
 </div>
 
 <!-- <br/> -->
