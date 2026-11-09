@@ -100,7 +100,14 @@ chris@cachyos ~> neofetch --about-me
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ChrisplaysXD&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" height="180"/>
 </div>
-
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChrisplaysXD/ChrisplaysXD/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChrisplaysXD/ChrisplaysXD/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ChrisplaysXD/ChrisplaysXD/output/github-snake.svg" width="100%"/>
+  </picture>
+</div>
 <!-- <br/> -->
 
 ---
